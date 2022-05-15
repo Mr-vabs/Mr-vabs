@@ -10,7 +10,7 @@
 <!--Here are some ideas to get you started:-->
 
 <h2 align="center">
-  <img align="center" height="256px" src="https://raw.githubusercontent.com/Mr-vabs/Mr-vabs/main/assets/images/undraw_creation_process_re_kqa9.svg" alt="failed to load">
+  <img align="center" height="256px" src="https://raw.githubusercontent.com/Mr-vabs/Mr-vabs/main/assets/images/undraw_visionary_technology_re_jfp7.svg" alt="failed to load">
   <br>
   <br>
   Hey There! This is VaiBhav KaSaudhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="failed to load" width="28">
@@ -57,7 +57,7 @@
 <br />
 <img alt="VaiBhav KaSaudhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-vabs&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
-<img alt="VaiBhav KaSaudhan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-vabs&layout=compact&langs_count=10" />
+<img alt="VaiBhav KaSaudhan's Top languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-vabs&layout=compact&theme=dark&langs_count=10" />
 <br /><br />
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mr-vabs's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Mr-vabs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
