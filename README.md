@@ -44,7 +44,7 @@
   <li>🤝 ️ I’m looking to collaborate on mern and django projects.</li>
   <li>💞 I love to solve Data Structure and Algorithm Problems with C.</li>
   <li>🧑‍🎓 I'm a Computer Science Engineering Student (Graduating in 2022).</li>
-<ul>
+</ul>
 
 ## &#128200; Contribution Streak
 
