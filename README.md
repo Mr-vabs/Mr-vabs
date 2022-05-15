@@ -46,6 +46,14 @@
   <li>🧑‍🎓 I'm a Computer Science Engineering Student (Graduating in 2022).</li>
 </ul>
 
+## 🏆 Troffies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs&column=3" alt="Vaibhav's troffies" />
+  </a> 
+</p>
+
 ## &#128200; Contribution Streak
 
 <p align="center">
