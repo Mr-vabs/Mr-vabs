@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs&column=3" alt="Vaibhav's troffies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs" alt="Vaibhav's troffies" />
   </a> 
 </p>
 
