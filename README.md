@@ -13,11 +13,11 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 👋 Hi, I’m @Mr-vabs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m VaiBhav KaSaudhan @Mr-vabs
+- 👀 I’m interested in web development specially started react
+- 🌱 I’m currently learning mern stack
+- 💞️ I’m looking to collaborate on mern and django projects
+- 📫 Reach me from tele (v4ibhav) or facebook (mrvabs)
 
 <!---
 Mr-vabs/Mr-vabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
