@@ -15,7 +15,7 @@
   <br>
   Hey There! This is VaiBhav KaSaudhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="failed to load" width="28">
 </h2>
-
+<h3 align="center">A self taught web developer from India</h3>
 <!--
 - 👋 Hi, I’m VaiBhav KaSaudhan @Mr-vabs
 -->
@@ -35,7 +35,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Mr-vabs?label=Follow&style=social)
 [![Years Badge](https://badges.pufler.dev/years/Mr-vabs)](https://badges.pufler.dev/years/Mr-vabs)
 [![Repos Badge](https://badges.pufler.dev/repos/Mr-vabs)](https://badges.pufler.dev/repos/Mr-vabs)
-
+<p align="left"> <a href="https://twitter.com/vebhv_" target="blank"><img src="https://img.shields.io/twitter/follow/vebhv_?logo=twitter&style=for-the-badge" alt="vebhv_" /></a> </p>
 ## 🧑‍💻 About Me
 
 <ul>
@@ -104,9 +104,11 @@
     <a href="https://www.linkedin.com/in/vaibhav-kasaudhan-6857091a2">
       <img src="https://img.shields.io/badge/vaibhav--kasaudhan--6857091a2-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <br>
     <a href="mailto:vk8400033581@gmail.com">
       <img src="https://img.shields.io/badge/-vk8400033581@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
+    <br>
     <a href="https://instagram.com/vabrish">
       <img src="https://img.shields.io/badge/-vabrish-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
@@ -120,7 +122,7 @@
     </a>
 </p>
 <br />
-<p align="center">
+  <p align="center">
     Show Some &#128147; by &#11088; the Repositories!
-</p>
+  </p>
 </p>
