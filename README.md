@@ -101,8 +101,8 @@
 ## &#128232; Connect with me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/vaibhav-kasaudhan-6857091a2">
-      <img src="https://img.shields.io/badge/vaibhav--kasaudhan--6857091a2-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/vebhv">
+      <img src="https://img.shields.io/badge/vebhv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <br>
     <a href="mailto:vk8400033581@gmail.com">
