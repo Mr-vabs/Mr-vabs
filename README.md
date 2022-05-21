@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mr-vabs&color=88b04b&style=for-the-badge&label=PROFILE+VIEWS)
 -->
 <!--Here are some ideas to get you started:-->
-
+<!-- started the visible area -->
 <h2 align="center">
   <img align="center" height="256px" src="https://raw.githubusercontent.com/Mr-vabs/Mr-vabs/main/assets/images/undraw_visionary_technology_re_jfp7.svg" alt="failed to load">
   <br>
@@ -36,7 +36,42 @@
 [![Years Badge](https://badges.pufler.dev/years/Mr-vabs)](https://badges.pufler.dev/years/Mr-vabs)
 [![Repos Badge](https://badges.pufler.dev/repos/Mr-vabs)](https://badges.pufler.dev/repos/Mr-vabs)
 <p align="left"> <a href="https://twitter.com/vebhv_" target="blank"><img src="https://img.shields.io/twitter/follow/vebhv_?logo=twitter&style=for-the-badge" alt="vebhv_" /></a> </p>
-## 🧑‍💻 About Me
+
+<br><br>
+
+## Table of Contents
+<hr>
+
+- [Sections](#sections)
+- [About me](#about-me)
+- [Troffies](#troffies)
+- [Contribution Streak](#contribution-streak)
+- [Github Statistics](#github-statistics)
+- [Tech Stack and Plateform Tools](#tech-stack-and-plateform-tools)
+- [Connect with me](#connect-with-me)
+
+<br><br> 
+
+## Sections
+<hr>
+
+✔️ About me 
+
+✔️ Troffies
+
+✔️ Contribution Streak
+
+✔️ GitHub Statistics
+
+✔️ Tech Stack and Plateform Tools
+
+✔️ Connect with me
+
+<br><br>
+
+<!-- ## 🧑‍💻 About Me -->
+## About Me
+<hr>
 
 <ul>
   <li>👀 I’m interested in web development specially started React.</li>
@@ -45,32 +80,46 @@
   <li>💞 I love to solve Data Structure and Algorithm Problems with C.</li>
   <li>🧑‍🎓 I'm a Computer Science Engineering Student (Graduating in 2022).</li>
 </ul>
+<br><br> 
 
-## 🏆 Troffies
+<!-- ## 🏆 Troffies -->
+## Troffies
+<hr>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs" alt="Vaibhav's troffies" />
   </a> 
 </p>
+<br><br> 
 
-## &#128200; Contribution Streak
+<!-- ## &#128200; Contribution Streak -->
+## Contribution Streak
+<hr>
 
 <p align="center">
     <img alt="VaiBhav KaSaudhan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Mr-vabs&theme=dark" />
+    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+    <img alt="Mr-vabs's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Mr-vabs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
+<br><br> 
+
+<!-- ## &#128202; GitHub Statistics -->
+## GitHub Statistics
+<hr>
+
+<br />
+<p align="center">
+  <img alt="VaiBhav KaSaudhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-vabs&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  <br />
+  <img alt="VaiBhav KaSaudhan's Top languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-vabs&layout=compact&theme=dark&langs_count=10" />
 </p>
 
-## &#128202; GitHub Statistics
+<br><br> 
 
-<br />
-<img alt="VaiBhav KaSaudhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-vabs&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-<br />
-<img alt="VaiBhav KaSaudhan's Top languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-vabs&layout=compact&theme=dark&langs_count=10" />
-<br /><br />
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mr-vabs's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Mr-vabs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-## 🧠 Tech Stack and Plateform Tools
+<!-- ## 🧠 Tech Stack and Plateform Tools -->
+## Tech Stack and Plateform Tools
+<hr>
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -97,28 +146,30 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3DDC84)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=3DDC84)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=3DDC84)&nbsp;
+<br><br> 
 
-## &#128232; Connect with me
+<!-- ## &#128232; Connect with me -->
+## Connect with me
+<hr>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vebhv">
       <img src="https://img.shields.io/badge/vebhv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <br>
-    <a href="mailto:vk8400033581@gmail.com">
-      <img src="https://img.shields.io/badge/-vk8400033581@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-    <br>
     <a href="https://instagram.com/vabrish">
-      <img src="https://img.shields.io/badge/-vabrish-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/vabrish-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-    <br>
     <a href="https://twitter.com/vebhv_">
-      <img src="https://img.shields.io/badge/-vebhv__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://img.shields.io/badge/vebhv__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <br>
     <a href="https://www.facebook.com/Mr.vabs">
-      <img src="https://img.shields.io/badge/-mrvabs-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      <img src="https://img.shields.io/badge/mrvabs-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://t.me/v4ibhav">
+      <img src="https://img.shields.io/badge/V4IBHAV-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="mailto:vk8400033581@gmail.com">
+      <img src="https://img.shields.io/badge/vk8400033581@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
 </p>
 <br />
@@ -126,3 +177,6 @@
     Show Some &#128147; by &#11088; the Repositories!
   </p>
 </p>
+<br><br> 
+<hr>
+<br><br> 
