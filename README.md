@@ -33,8 +33,11 @@
 <!-- badges -->
 ![Profile Badge](https://komarev.com/ghpvc/?username=Mr-vabs)
 ![GitHub followers](https://img.shields.io/github/followers/Mr-vabs?label=Follow&style=social)
-[![Years Badge](https://badges.pufler.dev/years/Mr-vabs)](https://badges.pufler.dev/years/Mr-vabs)
-[![Repos Badge](https://badges.pufler.dev/repos/Mr-vabs)](https://badges.pufler.dev/repos/Mr-vabs)
+<!-- down badges -->
+<!--
+[![Years Badge](https://badges.pufler.dev/years/Mr-vabs)](https://badges.pufler.dev/)
+[![Repos Badge](https://badges.pufler.dev/repos/Mr-vabs)](https://badges.pufler.dev/)
+-->
 <p align="left"> <a href="https://twitter.com/vebhv_" target="blank"><img src="https://img.shields.io/twitter/follow/vebhv_?logo=twitter&style=for-the-badge" alt="vebhv_" /></a> </p>
 
 <br><br>
@@ -121,6 +124,27 @@
 ## Tech Stack and Plateform Tools
 <hr>
 
+<!-- Skills -->
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs&logoColor=4479A1)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=termux&logoColor=3DDC84)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=3DDC84)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=3DDC84)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=3DDC84)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3DDC84)&nbsp;
+
+
+<!-- dataset -->
+<!--
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -146,6 +170,8 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3DDC84)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=3DDC84)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=3DDC84)&nbsp;
+-->
+
 <br><br> 
 
 <!-- ## &#128232; Connect with me -->
