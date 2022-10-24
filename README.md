@@ -47,7 +47,7 @@
 
 - [Sections](#sections)
 - [About me](#about-me)
-- [Troffies](#troffies)
+- [Troffies](#troffies-and-badges)
 - [Contribution Streak](#contribution-streak)
 - [Github Statistics](#github-statistics)
 - [Tech Stack and Plateform Tools](#tech-stack-and-plateform-tools)
@@ -60,7 +60,7 @@
 
 ✔️ About me 
 
-✔️ Troffies
+✔️ Troffies and Badges
 
 ✔️ Contribution Streak
 
@@ -86,13 +86,17 @@
 <br><br> 
 
 <!-- ## 🏆 Troffies -->
-## Troffies
+## Troffies and Badges
 <hr>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs" alt="Vaibhav's troffies" />
-  </a> 
+  </a>
+  <br>
+  <a href="https://holopin.io/@vebhv">
+    <img src="https://holopin.me/vebhv" alt="@vebhv's Holopin board" />
+  </a>
 </p>
 <br><br> 
 
