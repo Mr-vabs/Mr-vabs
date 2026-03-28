@@ -10,7 +10,7 @@
 <!--Here are some ideas to get you started:-->
 <!-- started the visible area -->
 <h2 align="center">
-  <img align="center" height="256px" src="https://raw.githubusercontent.com/Mr-vabs/Mr-vabs/main/assets/images/undraw_visionary_technology_re_jfp7.svg" alt="failed to load">
+  <img align="center" height="256px" src="./assets/images/undraw_visionary_technology_re_jfp7.svg" alt="failed to load">
   <br>
   <br>
   Hey There! This is VaiBhav KaSaudhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="failed to load" width="28">
@@ -27,7 +27,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Web+Developer;Problem+Solver;C+Lover">
+  <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Web+Developer;Problem+Solver;C+Lover">
 </p>
 
 <!-- badges -->
@@ -47,10 +47,10 @@
 
 - [Sections](#sections)
 - [About me](#about-me)
-- [Troffies](#troffies-and-badges)
+- [Trophies and Badges](#trophies-and-badges)
 - [Contribution Streak](#contribution-streak)
-- [Github Statistics](#github-statistics)
-- [Tech Stack and Plateform Tools](#tech-stack-and-plateform-tools)
+- [GitHub Statistics](#github-statistics)
+- [Tech Stack and Platform Tools](#tech-stack-and-platform-tools)
 - [Connect with me](#connect-with-me)
 
 <br><br> 
@@ -60,13 +60,13 @@
 
 ✔️ About me 
 
-✔️ Troffies and Badges
+✔️ Trophies and Badges
 
 ✔️ Contribution Streak
 
 ✔️ GitHub Statistics
 
-✔️ Tech Stack and Plateform Tools
+✔️ Tech Stack and Platform Tools
 
 ✔️ Connect with me
 
@@ -85,13 +85,13 @@
 </ul>
 <br><br> 
 
-<!-- ## 🏆 Troffies -->
-## Troffies and Badges
+<!-- ## 🏆 Trophies -->
+## Trophies and Badges
 <hr>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs" alt="Vaibhav's troffies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs" alt="Vaibhav's trophies" />
   </a>
   <br>
   <a href="https://holopin.io/@vebhv">
@@ -105,9 +105,9 @@
 <hr>
 
 <p align="center">
-    <img alt="VaiBhav KaSaudhan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Mr-vabs&theme=dark" />
+    <img alt="VaiBhav KaSaudhan's Github Streak Stats" src="https://streak-stats.demolab.com/?user=Mr-vabs&theme=dark" />
     <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-    <img alt="Mr-vabs's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Mr-vabs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="Mr-vabs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mr-vabs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 <br><br> 
 
@@ -124,8 +124,8 @@
 
 <br><br> 
 
-<!-- ## 🧠 Tech Stack and Plateform Tools -->
-## Tech Stack and Plateform Tools
+<!-- ## 🧠 Tech Stack and Platform Tools -->
+## Tech Stack and Platform Tools
 <hr>
 
 <!-- Skills -->
