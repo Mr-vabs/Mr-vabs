@@ -91,7 +91,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mr-vabs" alt="Vaibhav's trophies" />
+    <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Mr-vabs" alt="Vaibhav's trophies" />
   </a>
   <br>
   <a href="https://holopin.io/@vebhv">
@@ -117,9 +117,9 @@
 
 <br />
 <p align="center">
-  <img alt="VaiBhav KaSaudhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-vabs&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  <img alt="VaiBhav KaSaudhan's Github Stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Mr-vabs&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
   <br />
-  <img alt="VaiBhav KaSaudhan's Top languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-vabs&layout=compact&theme=dark&langs_count=10" />
+  <img alt="VaiBhav KaSaudhan's Top languages Stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Mr-vabs&layout=compact&theme=dark&langs_count=10" />
 </p>
 
 <br><br> 
@@ -129,22 +129,9 @@
 <hr>
 
 <!-- Skills -->
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs&logoColor=4479A1)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=termux&logoColor=3DDC84)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=3DDC84)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=3DDC84)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=3DDC84)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=3DDC84)&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,git,github,html,css,bootstrap,js,nodejs,py,vscode,sublime,django,heroku,linux,react&theme=dark" alt="skills" />
+</p>
 
 
 <!-- dataset -->
